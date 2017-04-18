@@ -1,0 +1,13 @@
+br\edu\ifpb\dac\projeto\core\dao\impl\UsuarioDAOJpaImpl.class
+br\edu\ifpb\dac\projeto\core\services\impl\UsuarioServiceImpl.class
+br\edu\ifpb\dac\projeto\core\dao\interfaces\UsuarioDAO.class
+br\edu\ifpb\dac\projeto\core\dao\impl\AvaliacaoDAOJpaImpl.class
+br\edu\ifpb\dac\projeto\core\dao\impl\CandidatoDAOJpaImpl.class
+br\edu\ifpb\dac\projeto\core\dao\interfaces\VagaDAO.class
+br\edu\ifpb\dac\projeto\core\services\impl\CandidatoServiceImpl.class
+br\edu\ifpb\dac\projeto\core\dao\config\DataSourceDefinitionConfig.class
+br\edu\ifpb\dac\projeto\core\dao\impl\VagaDAOJpaImpl.class
+br\edu\ifpb\dac\projeto\core\dao\interfaces\AvaliacaoDAO.class
+br\edu\ifpb\dac\projeto\core\services\impl\AvaliacaoServiceImpl.class
+br\edu\ifpb\dac\projeto\core\dao\interfaces\CandidatoDAO.class
+br\edu\ifpb\dac\projeto\core\services\impl\VagaServiceImpl.class
